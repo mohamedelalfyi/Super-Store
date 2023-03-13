@@ -1,0 +1,77 @@
+Order
+1- Not all days have orders. There were 220 days during the period from 2014 to 2017 when there were no orders.
+2- The most common shipping mode is standard class(viz).
+3- The most common customer segment is customer segment(viz).
+Order And Customer
+4- The best selling customer segment >> ship mode is customer segment >> standard class(viz).
+5- The best profit customer segment >> ship mode is customer segment >> standard class(viz).
+Customer
+6- The number of customer is 793.
+7- The top 5 customers make orders(viz).
+8- The top 5 best selling clients(viz).
+9- The top 5 best profit clients(viz).
+10- The top 5 cities make orders(viz).
+11- The top 5 best selling cities(viz).
+12- The top 5 best profit cities(viz).
+13- The top 5 states make orders(viz).
+14- The top 5 best selling states(viz).
+15- The top 5 best profit states(viz).
+16- The top 5 regions make orders(viz).
+17- The top 5 best selling regions(viz).
+18- The top 5 best profit regions(viz).
+Product
+19- The most popular categories is office supplies.
+20- The Best selling category is Technology.
+21- The Best Profit category is Technology.
+22- The top 5 most popular sub-category is Bilnders.
+23- The top 5 Best selling sub-category is Phones.
+24- The top 5 Best Profit sub-category is Copiers.
+25- The top 5 most popular Product Name is staple envelope.
+26- The top 5 Best selling Product Name is Canon imageCLASS 2200 Advanced Copier.
+27- The top 5 Best Profit Product Name is Canon imageCLASS 2200 Advanced Copier.
+28- there is outlier in Sales. From 2014 to 2016, there was a lack of sales, and then a big breakthrough at the beginning of 2016 to 2018.
+29- there is outlier in Profit. Profits are constantly increasing in general, but there are some orders that cause loss of profits.
+30- The number of units is not affected by discounts. Ordering two or three units is the most frequent among clients.
+31- Discounts up to 20% are effective and make profits. Discounts of more than 20% lead to loss of profits.
+32- The number of orders with a negative profit is 1871 خق.
+33- Order
+1- Not all days have orders. There were 220 days during the period from 2014 to 2017 when there were no orders.
+2- The most common shipping mode is standard class(viz).
+3- The most common customer segment is customer segment(viz).
+Order And Customer
+4- The best selling customer segment >> ship mode is customer segment >> standard class(viz).
+5- The best profit customer segment >> ship mode is customer segment >> standard class(viz).
+Customer
+6- The number of customer is 793.
+7- The top 5 customers make orders(viz).
+8- The top 5 best selling clients(viz).
+9- The top 5 best profit clients(viz).
+10- The top 5 cities make orders(viz).
+11- The top 5 best selling cities(viz).
+12- The top 5 best profit cities(viz).
+13- The top 5 states make orders(viz).
+14- The top 5 best selling states(viz).
+15- The top 5 best profit states(viz).
+16- The top 5 regions make orders(viz).
+17- The top 5 best selling regions(viz).
+18- The top 5 best profit regions(viz).
+Product
+19- The most popular categories is office supplies.
+20- The Best selling category is Technology.
+21- The Best Profit category is Technology.
+22- The top 5 most popular sub-category is Bilnders.
+23- The top 5 Best selling sub-category is Phones.
+24- The top 5 Best Profit sub-category is Copiers.
+25- The top 5 most popular Product Name is staple envelope.
+26- The top 5 Best selling Product Name is Canon imageCLASS 2200 Advanced Copier.
+27- The top 5 Best Profit Product Name is Canon imageCLASS 2200 Advanced Copier.
+28- there is outlier in Sales. From 2014 to 2016, there was a lack of sales, and then a big breakthrough at the beginning of 2016 to 2018.
+29- there is outlier in Profit. Profits are constantly increasing in general, but there are some orders that cause loss of profits.
+30- The number of units is not affected by discounts. Ordering two or three units is the most frequent among clients.
+31- Discounts up to 20% are effective and make profits. Discounts of more than 20% lead to loss of profits.
+32- The number of orders with a negative profit is 1871 orders. 
+
+
+
+
+
